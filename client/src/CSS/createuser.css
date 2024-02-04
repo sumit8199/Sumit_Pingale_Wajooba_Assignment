@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    padding: 10%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.form{
+    width: 60%;
+    border-radius: 2px;
+}
+.btn{
+    border-radius: 5px;
+    background-color: rgb(145, 187, 219);
+    padding: 5px;
+    text-decoration: none;
+    margin: 5px;
+}
